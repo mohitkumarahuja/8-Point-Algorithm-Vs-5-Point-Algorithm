@@ -1,0 +1,2 @@
+# 8-Point-Algorithm-Vs-5-Point-Algorithm
+The goal of this practical is to compare the classical linear 8 points algorithm and the linear 5 points knowing the vertical direction of the camera. Let's consider 50 points randomly distributed in a cube of size [-300*300]*[-300*300]*[- 300*300] in the world frame (Ow;Xw; Yw;Zw). Let's note respectively, (Oc1 ;Xc1 ; Yc1 ;Zc1) and (Oc2 ;Xc2 ; Yc2 ;Zc2) the camera positions. We suppose a calibrated camera posed at a rotation Ri and Ti of the world coordinate (Xw = RiXci + Ti).
